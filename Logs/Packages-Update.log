@@ -1,0 +1,10 @@
+
+=== Sat Jan  7 12:42:14 2023
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were added:
+  com.unity.ide.visualstudio@2.0.15
+The following packages were removed:
+  com.unity.package-manager-ui@2.2.0
